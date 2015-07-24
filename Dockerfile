@@ -1,7 +1,7 @@
 # DOCKER-VERSION 1.1.2
 # VERSION        0.1
 
-FROM ubuntu:12.04
+FROM ubuntu:14.04
 MAINTAINER Justin Plock <justin@plock.net>
 
 ENV DEBIAN_FRONTEND noninteractive
